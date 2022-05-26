@@ -1,18 +1,18 @@
 # git
 
-#### check for changes
+##### check for changes
 
 git status
 
-#### add for staging
+##### add for staging
 
 git add filename.js
 
-#### commit change
+##### commit change
 
 git commit -m 'commit comment'
 
-#### sync branch with main
+##### sync branch with main
 
 git checkout branchName
 
