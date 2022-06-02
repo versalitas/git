@@ -19,6 +19,7 @@ git commit --amend
 ### remove accidentally commited commit
 
 git rm —-cached file-to-remove.js
+
 git commit —-amend
 
 ### sync branch with main
