@@ -12,6 +12,15 @@ git add filename.js
 
 git commit -m 'commit comment'
 
+### amend commit (minor change)
+
+git commit --amend
+
+### remove accidentally commited commit
+
+git rm —-cached <file-to-remove>
+git commit —-amend
+
 ### sync branch with main
 
 git checkout branchName
